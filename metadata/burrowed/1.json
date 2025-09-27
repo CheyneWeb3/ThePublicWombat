@@ -1,0 +1,15 @@
+{
+  "name": "Burrowed Reward #1",
+  "description": "One of five Burrowed Reward NFTs. Holders earn a percentage of total collection volume (claimable by the current owner) and unlock exclusive ecosystem drops. Rebuy price is programmatically set to 1.5× the last sale price.",
+  "image": "https://goldenwombatrewardnfts.netlify.app/metadata/burrowedmedia/1.png",
+  "animation_url": "https://goldenwombatrewardnfts.netlify.app/metadata/burrowedmedia/1.mp4",
+  "external_url": "https://goldenwombatrewardnfts.netlify.app",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Burrowed Reward" },
+    { "trait_type": "Total Supply", "value": "5" },
+    { "trait_type": "Edition", "value": "#1 of 5" },
+    { "trait_type": "Reward Mechanic", "value": "Earns % of Volume" },
+    { "trait_type": "Holder Perks", "value": "Exclusive Drops" },
+    { "trait_type": "Rebuy Rule", "value": "1.5× Last Price" }
+  ]
+}

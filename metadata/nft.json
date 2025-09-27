@@ -1,0 +1,19 @@
+{
+  "name": "Golden Wombat Rewards NFT",
+  "description": "The Golden Wombat Rewards NFT is a special collectible awarded to community members for their contributions, loyalty, and achievements. Each Golden Wombat symbolizes recognition and long-term value within the ecosystem.",
+  "image": "https://goldenwombatrewardnfts.netlify.app/wombatnft.jpg",
+  "attributes": [
+    {
+      "trait_type": "Reward Type",
+      "value": "Golden Wombat"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rewards Collection"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    }
+  ]
+}
