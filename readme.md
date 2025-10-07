@@ -47,7 +47,7 @@ Got it — here’s a tight, shill-first **user guide** for Golden Wombat plus a
 * **`setSwapTriggerAmount(uint256)`** — Contract token threshold that triggers swap & distribute on sells.
 * **`updateGasForProcessing(uint256)`** — Bounds-checked gas budget for the auto-claim loop.
 
-### Donations (two-wallet split)
+### Donations with additional 50/50 splitter
 
 * **`setDonationWallets(address wombat, address forest)`** — Set both charity wallets.
 * **`setDonationSplitBps(uint256)`** — Basis-points to **Wombat** (remainder to **Forest**).
@@ -98,3 +98,4 @@ Got it — here’s a tight, shill-first **user guide** for Golden Wombat plus a
 ---
 
 If you want this formatted as a one-pager for docs/website, I can drop it into a clean markdown (or React page) with your branding.
+
