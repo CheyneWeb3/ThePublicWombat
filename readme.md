@@ -1,5 +1,3 @@
-Got it — here’s a tight, shill-first **user guide** for Golden Wombat plus a **contract-at-a-glance** (no code patches). I’ve called out the **rewards token update** feature and how you can expand it later.
-
 # Golden Wombat (GWB) — Simple Guide
 
 ## Why hold $GWB? 🦡✨
@@ -96,6 +94,4 @@ Got it — here’s a tight, shill-first **user guide** for Golden Wombat plus a
 * **UX extras:** on-chain events for claims & donations to power dashboards and badges.
 
 ---
-
-If you want this formatted as a one-pager for docs/website, I can drop it into a clean markdown (or React page) with your branding.
 
